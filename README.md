@@ -25,13 +25,13 @@ Happy brewing!
 ## Why I fork ?
 It is very difficult to install the ssd network for the first time. So I wrote some shell files for the installation to avoid some errors just like OPENCV read images error or lack essential run-time library.
 Here is my computer environment:
-CPU: Intel i5-6500
-MOTHER BROAD: Intel B150M
-RAM: 24GB DDR4 2133Hz
-GPU: Nvidia GTX1080 8GB with CUDA8 and cuDNN
-OS: Ubuntu 16.04
-No Anaconda install
-Use Python2.7 and OPENCV3
+* CPU: Intel i5-6500
+* MOTHER BROAD: Intel B150M
+* RAM: 24GB DDR4 2133Hz
+* GPU: Nvidia GTX1080 8GB with CUDA8 and cuDNN
+* OS: Ubuntu 16.04
+* No Anaconda install
+* Use Python2.7 and OPENCV3
 
 Good Luck!
 
